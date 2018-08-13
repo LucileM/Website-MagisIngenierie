@@ -53,7 +53,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Page d'acceuil",
+        "title": "Magis Ing Genève - Page d'acceuil",
         "meta_descr": "Acceuil de Magis Ingénierie Genève",
         "header_custom": "",
         "footer_custom": "",
@@ -597,7 +597,7 @@
     "realisations.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
-        "title": "Réalisations",
+        "title": "Magis Ing Genève - Réalisations",
         "order": 2
       },
       "components": [
@@ -1286,7 +1286,7 @@
     },
     "mission.html": {
       "settings": {
-        "title": "Notre mission",
+        "title": "Magis Ing Genève - Notre mission",
         "meta_descr": "Présentation de Magis Ingénierie Genève",
         "header_custom": "",
         "footer_custom": "",
@@ -1885,10 +1885,10 @@
         }
       ]
     },
-    "page3.html": {
+    "contact.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
-        "title": "Contact",
+        "title": "Magis Ing Genève - Contact",
         "order": 3
       },
       "components": [
