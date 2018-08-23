@@ -1513,6 +1513,10 @@ body {
 .cid-r1u99syxuI .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-r1u99syxuI .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-r1u99syxuI .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-r1u99syxuI .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r1u99syxuI .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1607,6 +1611,10 @@ body {
   .cid-r1u99syxuI .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-r1u99syxuI .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-r1u99syxuI .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-r1u99syxuI .navbar-collapse.collapsing .navbar-buttons,
   .cid-r1u99syxuI .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1665,7 +1673,7 @@ body {
 }
 .cid-r1u99syxuI .nav-link:hover,
 .cid-r1u99syxuI .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #0f51da !important;
 }
 .cid-r1u9LtHy57 {
   background-image: url("../../../assets/images/mbr-1-1920x1279.jpg");
