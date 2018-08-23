@@ -1708,7 +1708,7 @@ body {
 .cid-r1udizKgTF {
   padding-top: 60px;
   padding-bottom: 120px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-r1udizKgTF .counter-container {
   color: #767676;
@@ -1770,7 +1770,7 @@ body {
 .cid-r1ugH8l7tC {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
+  background: linear-gradient(45deg, #ffffff, #efefef);
 }
 .cid-r1ugH8l7tC .list-group-item {
   padding: .75rem 3.25rem;
@@ -1821,6 +1821,9 @@ body {
   .cid-r1ugH8l7tC .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-r1ugH8l7tC .plan-title {
+  color: #0f51da;
 }
 .cid-r0Ca2Hl1vU .navbar {
   background: #ffffff;
