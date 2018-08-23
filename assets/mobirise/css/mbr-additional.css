@@ -1706,8 +1706,8 @@ body {
   color: #0f51da;
 }
 .cid-r1udizKgTF {
-  padding-top: 60px;
-  padding-bottom: 120px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #efefef;
 }
 .cid-r1udizKgTF .counter-container {
@@ -1744,8 +1744,8 @@ body {
   color: #232323;
 }
 .cid-r1ubLlQkoI {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-r1ubLlQkoI .mbr-text {
@@ -1766,6 +1766,14 @@ body {
   padding-top: 75px;
   padding-bottom: 75px;
   background-image: url("../../../assets/images/mbr-1920x1440.jpg");
+}
+.cid-r1wVgHHdh7 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r1wVgHHdh7 .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-r1ugH8l7tC {
   padding-top: 90px;
@@ -1811,11 +1819,12 @@ body {
 }
 .cid-r1ugH8l7tC .price-figure {
   font-weight: 700;
-  color: #232323;
+  color: #767676;
 }
 .cid-r1ugH8l7tC .price-value {
   font-weight: 700;
   vertical-align: top;
+  color: #cccccc;
 }
 @media (max-width: 550px) {
   .cid-r1ugH8l7tC .price-figure {
@@ -1823,7 +1832,21 @@ body {
   }
 }
 .cid-r1ugH8l7tC .plan-title {
-  color: #0f51da;
+  color: #232323;
+}
+.cid-r1wW77Zm52 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r1wW77Zm52 .counter-container {
+  color: #767676;
+}
+.cid-r1wW77Zm52 .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-r1wW77Zm52 .counter-container ul li {
+  margin-bottom: 1rem;
 }
 .cid-r0Ca2Hl1vU .navbar {
   background: #ffffff;
