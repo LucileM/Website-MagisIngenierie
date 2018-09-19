@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Magis Ingenierie",
-    "currentPage": "apropos.html",
+    "currentPage": "projets.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2281,7 +2281,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/site1-2000x1500.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -2311,6 +2311,23 @@
                 "overlay": false,
                 "contentAlign": "left",
                 "text": "<b>P.A.F.S La Buisse&nbsp;</b><b><br></b>copyright@Stephane Bokhobza",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-08-31-at-14.18.04-1200x1600.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-2",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "DIAPOSITIVE IMAGE",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "<b>Armatures du radier de Vandœuvres</b><br>copyright@Magis Ingenierie",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>"
               }
             ]
