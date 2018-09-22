@@ -68,7 +68,9 @@
     "uniqCompNum": 140,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "on",
+    "cookiesAlert": "",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
