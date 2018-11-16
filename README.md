@@ -17,5 +17,5 @@ Website : <http://magis-ingenierie.ch>
     * First website
 
 <!-- Markdown link & img dfn's -->
-[github-image]: https://img.shields.io/badge/user-LucileM-pink.svg?logo=github&longCache=true&style=flat-square
+[github-image]: https://img.shields.io/badge/author-LucileM-pink.svg?logo=github&longCache=true&style=flat-square
 [github-url]: https://lucilem.github.io/
